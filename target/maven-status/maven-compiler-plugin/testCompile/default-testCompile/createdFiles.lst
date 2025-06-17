@@ -1,0 +1,17 @@
+PageObjectClasses\index.class
+PageObjectClasses\registrationDetails.class
+PageObjectClasses\tShirtsPage.class
+TestCaseClasses\VerifyRegistrationadnLogin.class
+Utilities\ReadConfig.class
+PageObjectClasses\SearchResultsPage.class
+PageObjectClasses\MyAccount.class
+Utilities\dpClause.class
+Utilities\ReadXlsx.class
+TestCaseClasses\ProductPagetest.class
+PageObjectClasses\productPage.class
+TestCaseClasses\VerifyRegistrationadnLoginDP.class
+PageObjectClasses\addresPageObjects.class
+PageObjectClasses\SummaryPage.class
+PageObjectClasses\loginPage.class
+TestCaseClasses\BaseClass.class
+Utilities\ExtentReportsClass.class

@@ -1,0 +1,871 @@
+[INFO ] 2025-06-11 22:02:38.565 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-11 22:02:43.052 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-11 22:02:48.256 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-11 22:02:49.247 {main} SeleniumProj - Lodgged out successfully
+[INFO ] 2025-06-11 22:02:49.699 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-11 22:02:50.901 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-11 22:02:54.373 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-11 22:03:08.795 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-11 22:03:10.132 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-11 22:03:14.236 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-11 22:03:19.742 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 12:46:43.743 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 12:47:10.606 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 12:47:22.510 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 12:47:23.879 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 12:47:29.847 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 12:47:36.183 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 12:47:36.185 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 15:22:12.383 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 15:22:15.971 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 15:22:20.171 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 15:22:22.201 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 15:23:15.285 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 15:23:19.152 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 15:23:23.344 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 15:23:25.344 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 15:24:33.887 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 15:24:37.551 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 15:24:41.883 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 15:24:43.439 {main} SeleniumProj - else ****************************
+[INFO ] 2025-06-12 15:24:43.452 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 15:25:38.901 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 15:25:43.896 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 15:25:49.295 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 15:25:50.935 {main} SeleniumProj - else ****************************
+[INFO ] 2025-06-12 15:25:50.951 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 15:26:31.671 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 15:26:33.086 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 15:26:40.569 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 15:26:42.465 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 15:26:42.469 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 16:10:16.234 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 16:10:20.807 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 16:10:26.431 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 16:10:28.234 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 16:10:28.312 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 16:14:09.057 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 16:14:13.804 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 16:14:19.896 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 16:14:21.500 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 16:14:21.537 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 16:18:27.040 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 16:18:31.220 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 16:18:36.923 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 16:18:38.488 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 16:18:48.596 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 16:21:06.648 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 16:21:12.906 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 16:21:18.788 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 16:21:20.287 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 16:21:20.508 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:05:06.550 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:05:20.494 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:05:25.150 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:05:28.228 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:05:28.293 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:06:57.204 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:07:00.549 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:07:04.719 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:07:06.261 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:07:16.377 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:08:07.220 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:08:12.251 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:08:16.545 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:08:18.117 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:08:28.197 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:09:43.098 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:09:44.177 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:09:54.758 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:09:56.871 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:09:57.067 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:12:27.017 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:12:28.035 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:12:35.495 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:12:37.403 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:12:37.626 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:14:32.665 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:14:40.118 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:14:45.681 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:14:47.136 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:14:47.336 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:15:02.987 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:15:08.446 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:15:12.861 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:15:14.604 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:15:14.796 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:15:29.720 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:15:37.694 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:15:42.006 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:15:43.868 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:15:44.062 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:20:08.446 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:20:32.199 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:20:39.044 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:20:40.763 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:20:45.134 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:21:08.511 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:21:16.902 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:21:22.966 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:21:24.218 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:21:26.210 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:23:31.105 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:23:39.636 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:23:44.139 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:23:48.920 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:23:56.187 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:25:35.412 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:25:39.797 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:25:45.580 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:25:46.885 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:25:50.421 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:26:21.836 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:26:27.042 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:26:31.687 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:26:33.213 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:26:46.866 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:27:01.236 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:27:09.516 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:27:14.937 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:27:17.169 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:27:19.994 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:27:32.631 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:27:38.500 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:27:43.901 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:27:46.380 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:28:00.284 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:28:33.298 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:29:18.681 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:29:42.858 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:29:49.108 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:29:53.882 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:30:09.786 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:33:58.069 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:34:08.220 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:34:12.766 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:34:14.686 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:34:27.595 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:44:09.798 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:44:14.379 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:44:20.478 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:44:22.665 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:44:35.217 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:47:13.633 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:47:24.666 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:47:31.633 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:47:34.308 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:47:47.695 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:53:26.690 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:53:32.117 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:53:37.678 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:53:39.352 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:53:52.065 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:54:53.185 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:54:59.747 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:55:04.297 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:55:05.913 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:55:19.542 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 17:56:19.219 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 17:56:26.318 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 17:56:33.195 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 17:56:35.510 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 17:56:48.529 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 18:04:36.334 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 18:04:40.645 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 18:04:51.974 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 18:04:54.003 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 18:05:06.642 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 18:05:54.883 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 18:06:10.386 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 18:06:17.494 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 18:06:19.162 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 18:06:31.894 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 18:12:14.250 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 18:12:18.734 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 18:12:24.571 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 18:12:25.934 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 18:12:28.683 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 18:59:21.013 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 18:59:28.503 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 18:59:33.111 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 18:59:34.699 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 18:59:37.982 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 19:00:18.961 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 19:00:22.984 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 19:00:27.587 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 19:00:29.582 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 19:00:38.388 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 19:19:46.136 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 19:19:54.352 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 19:19:59.447 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 19:20:01.195 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 19:20:14.194 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 19:24:39.710 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 19:24:45.421 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 19:24:51.147 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 19:24:53.029 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 19:24:53.068 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 19:25:39.889 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 19:25:41.166 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 19:25:49.688 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 19:25:51.682 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 19:25:51.702 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 19:27:55.455 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 19:28:03.328 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 19:28:07.997 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 19:28:10.848 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 19:28:10.863 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 19:33:37.134 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 19:33:42.045 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 19:33:46.879 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 19:33:48.953 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 19:33:48.981 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 19:38:22.838 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 19:38:29.319 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 19:38:34.052 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 19:38:35.752 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 19:38:37.906 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 19:42:11.285 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 19:42:16.071 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 19:42:20.583 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 19:42:22.149 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 19:42:23.999 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 19:47:58.285 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 19:48:03.817 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 19:48:08.533 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 19:48:11.221 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 19:48:24.039 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 19:49:09.289 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 19:52:34.639 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 19:52:43.804 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 19:52:49.795 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 19:52:52.655 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 19:53:08.540 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 19:55:24.620 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 19:55:31.452 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 19:55:39.222 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 19:55:41.799 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 19:55:57.748 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 20:06:06.881 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 20:06:11.572 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 20:06:17.468 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 20:06:19.096 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 20:06:36.132 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 20:54:39.861 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 20:54:44.320 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 20:54:49.817 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 20:54:51.210 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 20:55:06.874 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 21:26:16.235 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 21:26:20.623 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 21:26:25.978 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 21:26:27.529 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 21:26:40.528 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 21:27:19.507 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 21:27:23.310 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 21:27:27.689 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 21:27:28.923 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 21:27:38.985 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 21:31:35.895 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 21:31:39.693 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 21:31:44.948 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 21:31:46.276 {main} SeleniumProj - if ****************************
+[INFO ] 2025-06-12 21:31:58.275 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 21:33:24.326 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 21:33:29.256 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 21:33:34.872 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 21:33:46.994 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 21:33:51.404 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 21:33:52.569 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 21:34:00.972 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 21:34:09.797 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 21:48:52.392 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 21:48:56.692 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 21:49:01.083 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 21:49:10.145 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 21:49:17.893 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 21:49:23.291 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 21:49:27.611 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 21:49:34.086 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 21:55:24.011 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 21:55:28.603 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 21:55:32.826 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 21:55:44.486 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 21:55:53.213 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 21:55:57.300 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 21:56:02.409 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 21:56:14.003 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 21:56:43.479 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 21:56:48.564 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 21:56:54.056 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 21:57:02.354 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 21:57:33.324 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 21:57:36.931 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 21:57:41.247 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 21:57:50.897 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 21:58:00.491 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 21:58:04.161 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 21:58:09.516 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 21:58:16.228 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 21:59:28.609 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 21:59:32.164 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 21:59:36.344 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 21:59:42.780 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 21:59:51.679 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 21:59:55.537 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 22:00:00.759 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 22:00:07.125 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 22:09:42.044 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 22:09:46.227 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 22:09:51.863 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 22:11:05.694 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 22:11:09.486 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 22:11:14.587 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 22:11:26.188 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 22:14:25.164 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 22:14:31.944 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 22:14:37.254 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 22:14:42.007 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-12 22:15:00.286 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-12 22:15:03.795 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-12 22:15:09.134 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-12 22:15:15.490 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:13:55.889 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:14:00.325 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:14:11.603 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:14:13.020 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:14:33.451 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:14:48.206 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:14:55.119 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:15:08.736 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:15:18.062 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:15:22.776 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:15:28.361 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:15:40.306 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:16:07.973 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:16:12.335 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:16:17.572 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:16:31.201 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:18:03.560 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:18:09.669 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:18:14.658 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:18:23.131 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:32:45.921 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:32:50.933 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:32:55.436 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:32:59.637 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:33:06.658 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:33:11.689 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:33:17.422 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:33:35.709 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:34:40.637 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:34:45.799 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:34:51.505 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:34:58.824 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:35:07.173 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:35:12.100 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:35:16.357 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:35:23.897 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:36:42.370 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:36:49.921 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:36:54.200 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:36:58.110 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:37:05.971 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:37:08.638 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:37:19.240 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:37:24.789 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:38:55.343 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:38:56.697 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:39:05.047 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:39:08.970 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:39:16.208 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:39:20.268 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:39:24.450 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:39:48.666 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:40:42.072 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:40:51.988 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:40:56.384 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:41:15.071 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:42:51.510 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:42:55.751 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:43:00.120 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:43:15.720 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:44:32.757 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:44:36.117 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:44:41.231 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:44:54.389 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:45:35.874 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:45:40.436 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:45:45.759 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:46:09.634 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 18:49:08.972 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 18:49:12.353 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 18:49:17.373 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 18:49:27.277 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:16:26.262 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:16:30.303 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:16:36.436 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:16:49.017 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:17:06.197 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:17:09.687 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:17:13.855 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:17:24.419 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:20:16.657 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:20:21.320 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:20:27.205 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:20:38.525 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:22:48.560 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:22:52.139 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:22:57.349 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:23:08.652 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:23:49.791 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:23:53.561 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:23:59.119 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:24:10.859 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:24:34.604 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:24:40.736 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:24:45.308 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:24:57.574 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:25:10.382 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:25:11.467 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:25:19.936 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:25:44.253 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:26:49.987 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:27:01.309 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:27:07.951 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:27:21.522 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:27:30.070 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:27:34.271 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:27:39.576 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:27:50.677 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:27:57.526 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:28:01.958 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:28:06.354 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:28:18.160 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:28:45.926 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:28:50.084 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:28:54.371 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:29:14.421 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:32:09.818 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:32:14.153 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:32:19.389 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:32:39.392 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:34:55.586 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:35:01.167 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:35:06.485 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:35:33.537 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:40:12.788 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:40:17.772 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:40:23.172 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:40:32.977 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:40:41.106 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:40:46.390 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:40:51.560 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:40:58.960 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:41:06.112 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:41:09.709 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:41:15.134 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:41:33.570 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:41:58.032 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:42:01.808 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:42:06.339 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:42:17.950 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:42:26.741 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:42:30.150 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:42:35.712 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:43:02.360 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:44:23.406 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:44:28.977 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:44:33.349 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:44:51.361 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:46:21.070 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:46:25.437 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:46:30.732 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:46:42.457 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:47:03.461 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:47:09.577 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:47:15.010 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:47:27.523 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:47:41.657 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:47:45.735 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:47:51.339 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:48:09.957 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:49:09.813 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:49:14.007 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:49:19.585 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:49:45.442 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:51:17.890 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:51:22.002 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:51:28.921 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:51:49.443 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:52:13.924 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:52:18.182 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:52:22.412 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:52:40.461 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:55:17.106 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:55:20.896 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:55:25.112 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:55:32.728 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:55:39.903 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:55:44.826 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:55:50.896 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:55:57.506 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 19:56:04.229 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 19:56:07.862 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 19:56:13.210 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 19:56:30.429 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:02:36.379 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:02:41.005 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:02:46.722 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:02:59.268 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:03:14.726 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:03:18.945 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:03:26.331 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:03:46.386 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:06:06.896 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:06:08.239 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:06:15.767 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:06:27.810 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:06:37.113 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:06:41.512 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:06:45.849 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:06:52.730 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:08:37.862 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:08:43.054 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:08:48.294 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:09:06.957 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:09:33.121 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:09:37.056 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:09:42.438 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:10:03.174 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:11:37.304 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:11:43.488 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:11:48.045 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:12:06.730 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:13:04.962 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:13:08.708 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:13:14.663 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:13:24.110 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:13:31.445 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:13:35.070 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:13:40.320 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:13:58.801 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:15:36.706 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:15:40.625 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:15:45.893 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:15:51.408 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:15:58.659 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:16:02.103 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:16:07.313 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:16:23.877 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:18:22.709 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:18:26.439 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:18:31.619 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:18:48.561 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:20:33.064 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:20:38.906 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:20:44.572 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:20:48.505 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:20:56.123 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:21:01.378 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:21:05.827 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:21:18.642 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:21:51.754 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:21:55.639 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:22:00.077 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:22:10.235 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:24:34.333 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:24:41.247 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:24:46.581 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:24:55.675 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:25:57.793 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:26:01.530 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:26:05.879 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:26:16.981 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:27:00.461 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:27:04.572 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:27:08.804 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:27:18.004 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:28:39.811 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:28:43.868 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:28:49.221 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:28:58.386 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:29:42.373 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:29:47.472 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:29:51.802 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:30:05.075 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:31:21.821 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:31:26.290 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:31:31.487 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:31:41.262 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:33:06.193 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:33:09.983 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:33:15.184 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:33:24.951 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:34:18.063 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:34:22.190 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:34:27.789 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:34:37.779 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:37:02.538 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:37:06.557 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:37:10.973 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:37:22.833 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:39:13.264 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:39:17.705 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:39:21.985 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:39:40.679 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:41:33.331 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:41:38.704 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:41:44.562 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:41:57.078 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:44:53.860 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:44:57.789 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:45:03.027 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:45:19.104 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:46:10.559 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:46:14.262 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:46:20.201 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:46:34.456 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:50:06.914 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:50:12.588 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:50:16.927 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:50:35.553 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:55:28.845 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:55:32.438 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:55:37.648 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:55:54.674 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:57:51.677 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:57:55.955 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:58:00.242 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:58:21.014 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 20:58:58.056 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 20:59:02.160 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 20:59:07.889 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 20:59:25.692 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-16 21:00:31.242 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-16 21:00:38.608 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-16 21:00:47.138 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-16 21:01:12.548 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 10:21:17.523 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 10:21:23.137 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 10:21:27.710 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 10:21:53.547 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:04:19.184 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:04:23.261 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:04:28.640 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 12:04:29.700 {main} SeleniumProj - Lodgged out successfully
+[INFO ] 2025-06-17 12:04:29.733 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:04:30.891 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:04:34.763 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:04:49.560 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:04:50.797 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:04:52.634 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:04:52.660 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:37:11.645 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:37:15.494 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:37:20.813 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 12:37:21.835 {main} SeleniumProj - Lodgged out successfully
+[INFO ] 2025-06-17 12:37:23.703 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:37:24.758 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:37:28.760 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:37:43.876 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:37:44.960 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:37:48.623 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:37:53.216 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:40:39.097 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:40:43.134 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:40:47.424 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 12:40:48.601 {main} SeleniumProj - Lodgged out successfully
+[INFO ] 2025-06-17 12:40:48.876 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:40:50.012 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:40:54.067 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:41:08.701 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:41:09.767 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:41:13.700 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:41:19.537 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:41:20.535 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:41:25.144 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:41:36.623 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:41:37.712 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:41:41.933 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:41:47.270 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 12:41:47.471 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:41:48.512 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:41:52.518 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:41:57.772 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 12:42:19.928 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:54:54.101 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:54:58.174 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:55:04.028 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 12:55:05.383 {main} SeleniumProj - Lodgged out successfully
+[INFO ] 2025-06-17 12:55:05.624 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:55:06.568 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:55:10.496 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:55:25.039 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:55:25.979 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:55:29.796 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:55:36.009 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:55:36.996 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:55:41.050 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:55:52.846 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:55:53.981 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:55:59.100 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:56:04.894 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 12:56:05.574 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 12:56:06.752 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 12:56:11.324 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 12:56:16.750 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 12:56:37.729 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 14:50:56.320 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 14:51:00.081 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 14:51:05.722 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 14:51:06.851 {main} SeleniumProj - Lodgged out successfully
+[INFO ] 2025-06-17 14:51:06.889 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 14:51:08.257 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 14:51:12.799 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 14:51:27.947 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 14:51:29.072 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 14:51:33.138 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 14:51:38.803 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 14:51:40.027 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 14:51:44.427 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 14:51:55.077 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 14:51:56.125 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 14:52:00.355 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 14:52:05.997 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 14:52:05.998 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 14:52:07.107 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 14:52:12.021 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 14:52:12.325 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 15:00:15.766 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 15:00:20.243 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 15:00:25.989 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 15:00:27.224 {main} SeleniumProj - Lodgged out successfully
+[INFO ] 2025-06-17 15:00:27.251 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 15:00:28.450 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 15:00:32.726 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 15:00:48.299 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 15:00:49.253 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 15:00:53.093 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 15:00:58.555 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 15:00:59.674 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 15:01:03.526 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 15:01:14.599 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 15:01:15.629 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 15:01:19.976 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 15:01:25.334 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 15:01:25.335 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 15:01:26.216 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 15:01:30.671 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 15:01:36.119 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 15:01:47.837 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 15:03:13.592 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 15:03:17.435 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 15:03:22.866 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 15:03:24.067 {main} SeleniumProj - Lodgged out successfully
+[INFO ] 2025-06-17 15:03:24.087 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 15:03:25.322 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 15:03:25.808 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 15:03:25.886 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 15:03:27.227 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 15:03:28.805 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 15:03:28.826 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 15:03:29.939 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 15:59:05.805 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 15:59:09.343 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 15:59:13.604 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 15:59:14.626 {main} SeleniumProj - Lodgged out successfully
+[INFO ] 2025-06-17 15:59:14.646 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 15:59:16.026 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 15:59:20.353 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 15:59:34.689 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 15:59:36.396 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 15:59:41.238 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 15:59:45.762 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 15:59:47.037 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 15:59:51.689 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:00:02.752 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:00:03.651 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:00:07.572 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:00:13.443 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 16:00:13.449 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:00:14.806 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:00:20.193 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:00:25.829 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 16:00:40.462 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:08:15.667 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:08:16.968 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:08:21.275 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:08:22.420 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:08:26.459 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:08:27.292 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:08:28.909 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:08:32.707 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:08:33.696 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:08:35.793 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:09:56.362 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:10:00.267 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:10:05.962 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 16:10:07.943 {main} SeleniumProj - Lodgged out successfully
+[INFO ] 2025-06-17 16:10:07.963 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:10:09.259 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:10:10.664 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:10:28.401 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:10:29.339 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:10:33.797 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:10:38.106 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:10:39.467 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:10:40.614 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:10:56.121 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:10:59.329 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:11:03.786 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:11:09.229 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 16:11:09.230 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:11:12.028 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:11:17.663 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:11:23.536 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 16:11:41.956 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:13:35.730 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:13:39.390 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:13:43.671 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 16:13:44.826 {main} SeleniumProj - Lodgged out successfully
+[INFO ] 2025-06-17 16:13:44.841 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:13:45.709 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:13:46.759 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:14:04.378 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:14:06.572 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:14:10.473 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:14:16.014 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:14:17.847 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:14:22.897 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:14:34.328 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:14:35.237 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:14:39.384 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:14:43.714 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 16:14:43.718 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:14:44.645 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:14:48.995 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:14:56.330 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 16:15:17.446 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:15:43.548 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:15:44.768 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:15:53.300 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 16:15:54.408 {main} SeleniumProj - Lodgged out successfully
+[INFO ] 2025-06-17 16:15:54.429 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:15:55.837 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:15:59.529 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:16:13.676 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:16:14.578 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:16:18.695 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:16:22.839 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:16:23.661 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:16:27.692 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:16:38.846 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:16:39.647 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:16:43.522 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:16:49.256 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 16:16:49.257 {main} SeleniumProj - Browser closed successfully
+[INFO ] 2025-06-17 16:16:50.360 {main} SeleniumProj - Browser launched successfully
+[INFO ] 2025-06-17 16:16:54.630 {main} SeleniumProj - Opened URL
+[INFO ] 2025-06-17 16:17:00.578 {main} SeleniumProj - Lodggedin successfully
+[INFO ] 2025-06-17 16:17:19.151 {main} SeleniumProj - Browser closed successfully
